@@ -67,4 +67,4 @@ npm install
 | Kalkidan Zewdu    | UU78202R      |
 | Emnet Mulugeta    | UU78411R      |
 | Fasika Habtu      | UU78125       |
-| EKaleab Yosiya    | UU82409R      |
+| Fasiledes Aklilu  | UU82241R      |
